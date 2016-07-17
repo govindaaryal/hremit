@@ -1,0 +1,13 @@
+@media only screen and (max-device-width: 320px) {
+	.navber-collaspe{
+		float: left !important;
+	}
+	.biglogo{
+		display: none !important;
+	}
+	.smalllogo{
+		display: block !important;
+		height: 32px;
+		margin-top: -5px;
+	}
+}
